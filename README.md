@@ -3,3 +3,5 @@
 ## Carrinho de compras de eletrodomesticos criado para disciplina Desolvimento e Aplicações para Internet
 
 # Utilizado JS, CSS, HTML para a criação.
+
+## Utilizando IA NA Estilização do Site e códigos, porém modifiquei do meu jeito
